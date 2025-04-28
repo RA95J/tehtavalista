@@ -1,5 +1,8 @@
 # tehtavalista
 
+Ennen kuin käynnistät kirjoita cmd: npm install
+
+Ja käyttäjät joilla voi kirjautua on:
 user: password = user
 admin: password = admin
 
