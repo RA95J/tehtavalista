@@ -1,12 +1,13 @@
 # tehtavalista
 
-Ennen kuin käynnistät kirjoita cmd: npm install
+Ennen kuin käynnistät:
+Poista node modules kansio ja kirjoita cmd: npm install
 
 Ja käyttäjät joilla voi kirjautua on:
-user: password = user
-admin: password = admin
+username = user ja password = user
+usermane = admin ja password = admin
 
-Tehdyt tehtävät
+Tehdyt tehtävät:
  
 Entiteetit:
 
